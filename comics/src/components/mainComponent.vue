@@ -14,5 +14,6 @@ export default {
 .nero {
     background-color: black;
     height: 70px;
+    color: white;
 }
 </style>
