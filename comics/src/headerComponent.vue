@@ -23,7 +23,10 @@
 
 <script>
 export default {
-
+    name: 'headerComponent',
+    data() {
+        return {}
+    }
 }
 </script>
 
