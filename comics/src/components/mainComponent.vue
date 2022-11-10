@@ -1,12 +1,15 @@
 <template>
     <div class="nero">
+        --> Content goes here </div>
+
+    <div>
 
     </div>
 </template>
 
 <script>
 export default {
-
+    name: 'mainComponent'
 }
 </script>
 
