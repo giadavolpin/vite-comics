@@ -36,7 +36,7 @@ footer {
 }
 
 .bordoazzur {
-    border: 1px solid lightblue;
+    border: 1px solid $azzurro;
 }
 
 .azzur {
