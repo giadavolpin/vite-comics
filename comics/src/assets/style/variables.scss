@@ -3,3 +3,19 @@ $azzurro: rgb(2, 130, 249);
 $nero: rgb(28, 28, 28);
 $grigioscuro: rgb(48, 48, 48);
 $bianco: white;
+
+.d-flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}

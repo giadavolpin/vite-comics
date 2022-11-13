@@ -1,22 +1,45 @@
 <template>
     <header>
-        <a href="#">
-            <img src="../vue-dc-comics-1/img/dc-logo.png" alt="">
-        </a>
-        <nav>
-            <ul>
-                <li>Characters</li>
-                <li>Comics</li>
-                <li>Movies</li>
-                <li>Tv</li>
-                <li>Games</li>
-                <li>Collectibles</li>
-                <li>Videos</li>
-                <li>Fans</li>
-                <li>News</li>
-                <li>Shop</li>
-            </ul>
 
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a href="#">
+                    <img src="../assets/vue-dc-comics-1/img/dc-logo.png" alt="">
+                </a>
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Characters</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Comics</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Movies</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">tv</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">games</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">collectibles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">videos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">fans</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">news</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">shop</a>
+                    </li>
+
+                </ul>
+            </div>
         </nav>
     </header>
 </template>
