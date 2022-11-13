@@ -38,6 +38,7 @@ export default {
     background-color: rgb(2, 130, 249);
     color: white;
     height: 100px;
+    z-index: 1000;
 }
 
 .uppercase {
